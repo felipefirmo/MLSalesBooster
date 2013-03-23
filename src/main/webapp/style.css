@@ -1,0 +1,78 @@
+.formStyle {
+	padding: 20px;
+}
+
+#rightNavBase {
+   background-color: #eee;
+   border-radius: 10px 10px 0 0;
+}
+
+#signUpBean .form-actions { margin-top: 0; }
+
+body {
+   padding-top: 60px;
+   padding-bottom: 40px;
+}
+
+.sidebar-nav { padding: 9px 0; }
+
+.navbar-inner img { float: left; margin-right: 20px; }
+
+footer p { font-size: 8pt; }
+
+#signupForm, #passwordResetForm {
+   background-color: #eee;
+   border-radius: 10px;
+}
+
+
+#signupForm form { margin-left: 10px; padding-top: 10px; }
+
+#passwordResetForm form { margin-left: 10px; padding-top: 10px; }
+
+.menu-span-color{
+	color:#0088CC;
+	}
+
+.menu-span-color:hover{
+	background-color:#EEEEEE;
+	color:#005580;
+	cursor: pointer;
+	}
+
+#prevForm {
+	position:relative;
+	bottom:507px;
+	left:240px;
+	}
+
+#previewForm {
+	width: auto;
+	overflow:auto;
+	height:300px;
+	}
+
+.error-color {
+	color:#ff0000;
+	}
+
+.truncate {
+	max-width:50px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#loginHref:hover, #signupHref:hover, #greetHref:hover, #logout:hover { background-color: #e5e5e5; }
+
+#console:hover {background-color:#F89406; background-image: -moz-linear-gradient(center top , #FBB450, #F89406); }
+
+#logo {
+	height: 40px;
+	width: 74px;
+	background-image: url('../img/novapontocom.png');
+	float: left;
+	display: inline-block;
+	margin-right: 10px;
+}
+
